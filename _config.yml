@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Jieyi / My Site"
+title                    : "Site of Jieyi"
 title_separator          : "-"
 name                     : &name "Jieyi Huang"
 description              : &description "Pursuing for true life"
